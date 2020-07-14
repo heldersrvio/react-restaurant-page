@@ -1,0 +1,15 @@
+#contact {
+	position: relative;
+	text-align: left;
+	left: 30%;
+	margin-top: 50px;
+}
+
+#contact h2 {
+	color: white;
+	font-size: 20px;
+}
+
+#submit {
+	margin-top: 30px;
+}
