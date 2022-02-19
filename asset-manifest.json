@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/React-Restaurant-Page/static/css/main.ae46256c.chunk.css",
-    "main.js": "/React-Restaurant-Page/static/js/main.5012e245.chunk.js",
-    "main.js.map": "/React-Restaurant-Page/static/js/main.5012e245.chunk.js.map",
-    "runtime-main.js": "/React-Restaurant-Page/static/js/runtime-main.f16b68d9.js",
-    "runtime-main.js.map": "/React-Restaurant-Page/static/js/runtime-main.f16b68d9.js.map",
-    "static/js/2.b67ef8d3.chunk.js": "/React-Restaurant-Page/static/js/2.b67ef8d3.chunk.js",
-    "static/js/2.b67ef8d3.chunk.js.map": "/React-Restaurant-Page/static/js/2.b67ef8d3.chunk.js.map",
-    "index.html": "/React-Restaurant-Page/index.html",
-    "precache-manifest.5e3433c3beadd28f60b29fd5ee6acf71.js": "/React-Restaurant-Page/precache-manifest.5e3433c3beadd28f60b29fd5ee6acf71.js",
-    "service-worker.js": "/React-Restaurant-Page/service-worker.js",
-    "static/css/main.ae46256c.chunk.css.map": "/React-Restaurant-Page/static/css/main.ae46256c.chunk.css.map",
-    "static/js/2.b67ef8d3.chunk.js.LICENSE.txt": "/React-Restaurant-Page/static/js/2.b67ef8d3.chunk.js.LICENSE.txt",
-    "static/media/coffee-shop.jpg": "/React-Restaurant-Page/static/media/coffee-shop.7487e52a.jpg",
-    "static/media/Menu.css": "/React-Restaurant-Page/static/media/menu-template.92c6999f.jpg",
-    "static/media/Header.css": "/React-Restaurant-Page/static/media/wood-texture.5ba9acad.jpg",
-    "static/media/Home.css": "/React-Restaurant-Page/static/media/wood-texture2.6f75282c.jpg"
+    "main.css": "/react-restaurant-page/static/css/main.93525712.chunk.css",
+    "main.js": "/react-restaurant-page/static/js/main.5012e245.chunk.js",
+    "main.js.map": "/react-restaurant-page/static/js/main.5012e245.chunk.js.map",
+    "runtime-main.js": "/react-restaurant-page/static/js/runtime-main.df89ac16.js",
+    "runtime-main.js.map": "/react-restaurant-page/static/js/runtime-main.df89ac16.js.map",
+    "static/js/2.b67ef8d3.chunk.js": "/react-restaurant-page/static/js/2.b67ef8d3.chunk.js",
+    "static/js/2.b67ef8d3.chunk.js.map": "/react-restaurant-page/static/js/2.b67ef8d3.chunk.js.map",
+    "index.html": "/react-restaurant-page/index.html",
+    "precache-manifest.e25f0cfdf3030cd625b000c7d7d264db.js": "/react-restaurant-page/precache-manifest.e25f0cfdf3030cd625b000c7d7d264db.js",
+    "service-worker.js": "/react-restaurant-page/service-worker.js",
+    "static/css/main.93525712.chunk.css.map": "/react-restaurant-page/static/css/main.93525712.chunk.css.map",
+    "static/js/2.b67ef8d3.chunk.js.LICENSE.txt": "/react-restaurant-page/static/js/2.b67ef8d3.chunk.js.LICENSE.txt",
+    "static/media/coffee-shop.jpg": "/react-restaurant-page/static/media/coffee-shop.7487e52a.jpg",
+    "static/media/Menu.css": "/react-restaurant-page/static/media/menu-template.92c6999f.jpg",
+    "static/media/Header.css": "/react-restaurant-page/static/media/wood-texture.5ba9acad.jpg",
+    "static/media/Home.css": "/react-restaurant-page/static/media/wood-texture2.6f75282c.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.f16b68d9.js",
+    "static/js/runtime-main.df89ac16.js",
     "static/js/2.b67ef8d3.chunk.js",
-    "static/css/main.ae46256c.chunk.css",
+    "static/css/main.93525712.chunk.css",
     "static/js/main.5012e245.chunk.js"
   ]
 }
